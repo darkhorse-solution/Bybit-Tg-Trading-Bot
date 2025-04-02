@@ -1,0 +1,44 @@
+2025-04-02 04:20:25,275 - trading_bot - INFO - Logging initialized
+2025-04-02 04:23:43,290 - trading_bot - INFO - Logging initialized
+2025-04-02 04:23:43,302 - trading_bot - INFO - Initializing TradingBot...
+2025-04-02 04:23:43,302 - trading_bot - INFO - No symbol mappings file found, using default mappings
+2025-04-02 04:23:43,302 - trading_bot - INFO - Starting Bybit Trading Bot...
+2025-04-02 04:23:43,302 - trading_bot - INFO - Starting TradingBot...
+2025-04-02 04:23:43,302 - trading_bot - INFO - Connecting to Bybit API (testnet: False)
+2025-04-02 04:23:43,302 - trading_bot - INFO - Successfully connected to Bybit API
+2025-04-02 04:23:43,302 - trading_bot - INFO - TradingBot started successfully
+2025-04-02 04:23:43,302 - trading_bot - INFO - Bot running. Press Ctrl+C to stop.
+2025-04-02 04:23:43,302 - trading_bot - INFO - TradingBot running, press Ctrl+C to stop
+2025-04-02 04:24:20,247 - trading_bot - INFO - Bot execution cancelled
+2025-04-02 04:24:20,247 - trading_bot - INFO - Stopping TradingBot...
+2025-04-02 04:24:20,247 - trading_bot - INFO - Disconnected from Bybit API
+2025-04-02 04:24:20,247 - trading_bot - INFO - TradingBot stopped
+2025-04-02 04:24:22,893 - trading_bot - INFO - Logging initialized
+2025-04-02 04:24:22,904 - trading_bot - INFO - Initializing TradingBot...
+2025-04-02 04:24:22,904 - trading_bot - INFO - No symbol mappings file found, using default mappings
+2025-04-02 04:24:22,904 - trading_bot - INFO - Starting Bybit Trading Bot...
+2025-04-02 04:24:22,904 - trading_bot - INFO - Starting TradingBot...
+2025-04-02 04:24:22,904 - trading_bot - INFO - Connecting to Bybit API (testnet: False)
+2025-04-02 04:24:22,904 - trading_bot - INFO - Successfully connected to Bybit API
+2025-04-02 04:24:22,904 - trading_bot - INFO - TradingBot started successfully
+2025-04-02 04:24:22,904 - trading_bot - INFO - Bot running. Press Ctrl+C to stop.
+2025-04-02 04:24:22,904 - trading_bot - INFO - TradingBot running, press Ctrl+C to stop
+2025-04-02 04:24:33,755 - trading_bot - INFO - Bot execution cancelled
+2025-04-02 04:24:33,755 - trading_bot - INFO - Stopping TradingBot...
+2025-04-02 04:24:33,755 - trading_bot - INFO - Disconnected from Bybit API
+2025-04-02 04:24:33,755 - trading_bot - INFO - TradingBot stopped
+2025-04-02 04:24:38,298 - trading_bot - INFO - Logging initialized
+2025-04-02 04:24:38,316 - trading_bot - INFO - Initializing TradingBot...
+2025-04-02 04:24:38,316 - trading_bot - INFO - No symbol mappings file found, using default mappings
+2025-04-02 04:24:38,316 - trading_bot - INFO - Starting Bybit Trading Bot...
+2025-04-02 04:24:38,316 - trading_bot - INFO - Starting TradingBot...
+2025-04-02 04:24:38,316 - trading_bot - INFO - Connecting to Bybit API (testnet: False)
+2025-04-02 04:24:38,316 - trading_bot - INFO - Successfully connected to Bybit API
+2025-04-02 04:24:38,316 - trading_bot - INFO - TradingBot started successfully
+2025-04-02 04:24:38,316 - trading_bot - INFO - Bot running. Press Ctrl+C to stop.
+2025-04-02 04:24:38,316 - trading_bot - INFO - TradingBot running, press Ctrl+C to stop
+2025-04-02 04:26:24,623 - trading_bot - INFO - Bot execution cancelled
+2025-04-02 04:26:24,623 - trading_bot - INFO - Stopping TradingBot...
+2025-04-02 04:26:24,623 - trading_bot - INFO - Disconnected from Bybit API
+2025-04-02 04:26:24,623 - trading_bot - INFO - TradingBot stopped
+2025-04-02 04:26:25,616 - trading_bot - INFO - Logging initialized

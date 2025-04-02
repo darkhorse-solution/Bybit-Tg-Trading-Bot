@@ -1,0 +1,6 @@
+Telethon
+python-dotenv
+pybit
+colorama
+requests
+websocket-client
